@@ -181,9 +181,9 @@ body {
 .home_final .l-btn a {
   text-transform: uppercase;
   text-decoration: none;
-  font-family: headfont;
+  font-family: MyFont;
   color: black;
-  font-weight: 900;
+  font-weight: 100;
   letter-spacing: 1px;
 }
 .main .home .changing_lines {
